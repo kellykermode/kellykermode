@@ -1,7 +1,6 @@
 ### Hi there 👋 Hello! ¡Hola!
-🔭 Currently working on pair-programming while building genomic-scale cloud pipelines for bioinformatics
-🌱 </br>
-💬 Ask me about how to live and work in the cloud. 
+🔭 Currently working on pair-programming while building genomic-scale cloud pipelines for bioinformatics</br>
+💬 Ask me about how to live and work in the cloud. </br>
 📫 Reach me @ kkermode@gmail.com, <a href="http://twitter.com/coachk">@coachk</a></br>
 😄 Pronouns: she/her</br>
 <!--
