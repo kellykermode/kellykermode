@@ -1,6 +1,6 @@
 ### Hi there 👋 Hello! 👋 ¡Hola! 👋 
 👯 **TEACH** :: I've been training and helpings organizations for 20+ years on implementations, change models, and new technologies.
-🔭 **BUILD** :: I spend time pair-programming while building genomic-scale cloud pipelines for bioinformatics.</br>
+🔭🔭 **BUILD** :: I spend time pair-programming while building genomic-scale cloud pipelines for bioinformatics.</br>
 🌱 **LEARN** :: Finding habitudes of growth through #100DaysofCode and 365 days of github commits.</br>
 📫 **CONNECT** :: Reach me @ kkermode@gmail.com, <a href="http://twitter.com/coachk">@coachk</a></br>
 😄 **Pronouns** :: she/her</br>
